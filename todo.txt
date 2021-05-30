@@ -1,0 +1,11 @@
+// IMPORTANT
+
+// make args to directly aquire the output 
+// users can select categories of news 
+// users can select country of news
+// list of news
+
+// CAN BE ADDED
+
+// select categories of joke
+// list of jokes

@@ -1,0 +1,22 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "inform": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "node-fetch": "^2.6.1",
+    "yargs": "^17.0.1"
+  }
+}
