@@ -23,7 +23,7 @@ Inform is built with NodeJs with the help of 3 different free APIs and npm packa
    ```sh
    npm install -g inform-daily
    ```
-   OR
+####  OR
 
 1. Clone the repo
    ```sh
