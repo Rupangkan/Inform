@@ -1,10 +1,11 @@
 {
-  "name": "cli-project",
+  "name": "inform",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/index.js"
+    "start": "node ./bin/index.js",
+    "test": "echo \"No test specified\""
   },
   "keywords": [
     "cli"
