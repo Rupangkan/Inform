@@ -19,7 +19,11 @@ Inform is built with NodeJs with the help of 3 different free APIs and npm packa
 * [QuotesAPI](https://zenquotes.io/)
 
 ### Installation
-
+   ```sh
+   npm install -g inform-daily
+   ```
+####  OR
+   
 1. Clone the repo
    ```sh
    git clone https://github.com/rupangkan/inform.git
