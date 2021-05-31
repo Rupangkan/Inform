@@ -2,10 +2,10 @@
 
 const fetch = require('node-fetch');
 
-let default_news_url = "https://saurav.tech/NewsAPI/top-headlines/category/general/in.json"
+// let default_news_url = "https://saurav.tech/NewsAPI/top-headlines/category/general/in.json"
 
 
-function fetchNews(){
+function fetchNews(default_news_url){
   return fetch(default_news_url)
     .then(res => {
       return res.json()
