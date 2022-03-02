@@ -25,13 +25,15 @@ Inform is built with NodeJs with the help of 3 different free APIs and npm packa
    ```
 ####  OR
 
-1. Clone the repo
+Clone the repo
    ```sh
    git clone https://github.com/rupangkan/inform.git
    ```
-2. cd into the repo
-
-3. Install the NPM package globally
+Change Directory into the repository
+   ```sh
+   cd inform
+   ```
+Install the NPM package globally
    ```sh
    npm install -g
    ```
